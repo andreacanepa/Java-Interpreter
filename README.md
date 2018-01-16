@@ -8,3 +8,5 @@ Interprete Java per il linguaggio di programmazione definito.
 Software sviluppato in collaborazione con Filippo Vaccaro durante il corso "Linguaggi e Programmazione Orientata agli Oggetti" durante il
 secondo anno della mia laurea triennale in Informatica.
 
+Software developed using Eclipse.
+Software sviluppando utilizzando Eclipse.
