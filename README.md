@@ -9,4 +9,4 @@ Software sviluppato in collaborazione con Filippo Vaccaro durante il corso "Ling
 secondo anno della mia laurea triennale in Informatica.
 
 Software developed using Eclipse.
-Software sviluppando utilizzando Eclipse.
+Software sviluppato utilizzando Eclipse.
